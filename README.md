@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product image][product-screenshot]](https://datalatte.com)
+<img src="https://www.datalatte.com/imgs/home/cover_3.svg" alt="Logo" width=%50>
 
 TODO
 
