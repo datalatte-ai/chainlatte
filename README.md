@@ -21,7 +21,7 @@
   <p align="center">
     Datalatte Protocol
     <br />
-    <a href="https://github.com/datalatte-ai/protocollatte"><strong>Explore the docs</strong></a>
+    <a href="https://github.com/datalatte-ai/protocollatte/wiki"><strong>Explore the docs</strong></a>
     <br />
     <br />
     <a href="https://github.com/datalatte-ai/protocollatte">View Demo</a>
