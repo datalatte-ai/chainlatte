@@ -159,7 +159,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GPL-3.0 license. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,7 +168,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Datalatte - [@datalatte_](https://twitter.com/datalatte_) - hello@datalatte.com
+[@datalatte_](https://twitter.com/datalatte_) - hello@datalatte.com
 
 Project Link: [https://github.com/datalatte-ai/protocollatte](https://github.com/datalatte-ai/protocollatte)
 
