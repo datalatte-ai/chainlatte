@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://datalatte.com)
+[![Product image][product-screenshot]](https://datalatte.com)
 
 TODO
 
@@ -200,6 +200,6 @@ Project Link: [https://github.com/datalatte-ai/protocollatte](https://github.com
 [license-url]: https://github.com/datalatte-ai/protocollatte/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/company/datalatte/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://www.datalatte.com/imgs/home/cover_3.svg
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
