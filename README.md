@@ -98,12 +98,12 @@ TODO
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+TODO
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+TODO
+
 * npm
   ```sh
   npm install npm@latest -g
@@ -111,7 +111,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. TODO
 2. Clone the repo
    ```sh
    git clone https://github.com/datalatte-ai/protocollatte.git
@@ -173,7 +173,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the GPL-3.0 license. See `LICENSE.txt` for more information.
+Distributed under the GPL-3.0 license. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
