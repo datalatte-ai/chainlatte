@@ -32,6 +32,16 @@
   </p>
 </div>
 
+<p align="center">
+    <a href="https://github.com/datalatte-ai/protocollatte/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/datalatte-ai/protocollatte" /></a>
+    <a href="https://discord.com/invite/saUmuZ3Rrw">
+        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+            alt="chat on Discord"></a>
+    <a href="https://twitter.com/intent/follow?screen_name=DATALATTE_">
+        <img src="https://img.shields.io/twitter/follow/DATALATTE_?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
+</p>
 
 
 <!-- TABLE OF CONTENTS -->
