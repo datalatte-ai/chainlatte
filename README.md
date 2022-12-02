@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/datalatte-ai/protocollatte">
-    <img src="https://www.datalatte.com/imgs/logo.svg" alt="Logo" width="80" height="80">
+    <img src="https://www.datalatte.com/imgs/logo.svg" alt="Logo">
   </a>
 
 <h3 align="center">Protocollatte</h3>
