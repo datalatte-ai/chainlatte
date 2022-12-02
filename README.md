@@ -65,7 +65,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://www.datalatte.com/imgs/home/cover_3.svg" alt="Logo" width=%50>
+<div align="center">
+  <a href="https://www.datalatte.com">
+    <img src="https://www.datalatte.com/imgs/how/worth.svg" alt="Logo" width="300" height="300">
+  </a>
+</div>
 
 TODO
 
