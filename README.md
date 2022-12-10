@@ -1,5 +1,4 @@
-# Protocollatte
-
+# Chainlatte
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -12,29 +11,29 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/datalatte-ai/protocollatte">
+  <a href="https://github.com/datalatte-ai/chainlatte">
     <img src="https://www.datalatte.com/imgs/logo.svg" alt="Logo">
   </a>
 
-<h3 align="center">Protocollatte</h3>
+<h3 align="center">Chainlatte</h3>
 
   <p align="center">
     Datalatte Protocol
     <br />
-    <a href="https://github.com/datalatte-ai/protocollatte/wiki"><strong>Explore the docs</strong></a>
+    <a href="https://github.com/datalatte-ai/chainlatte/wiki"><strong>Explore the docs</strong></a>
     <br />
     <br />
-    <a href="https://github.com/datalatte-ai/protocollatte">View Demo</a>
+    <a href="https://github.com/datalatte-ai/chainlatte">View Demo</a>
     ·
-    <a href="https://github.com/datalatte-ai/protocollatte/issues">Report Bug</a>
+    <a href="https://github.com/datalatte-ai/chainlatte/issues">Report Bug</a>
     ·
-    <a href="https://github.com/datalatte-ai/protocollatte/issues">Request Feature</a>
+    <a href="https://github.com/datalatte-ai/chainlatte/issues">Request Feature</a>
   </p>
 </div>
 
 <p align="center">
-    <a href="https://github.com/datalatte-ai/protocollatte/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/datalatte-ai/protocollatte" /></a>
+    <a href="https://github.com/datalatte-ai/pchainlatte/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/datalatte-ai/chainlatte" /></a>
     <a href="https://discord.com/invite/saUmuZ3Rrw">
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
             alt="chat on Discord"></a>
@@ -146,7 +145,7 @@ TODO
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/datalatte-ai/protocollatte/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/datalatte-ai/chainlatte/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,7 +183,7 @@ Distributed under the GPL-3.0 license. See `LICENSE` for more information.
 
 [@datalatte_](https://twitter.com/datalatte_) - hello@datalatte.com
 
-Project Link: [https://github.com/datalatte-ai/protocollatte](https://github.com/datalatte-ai/protocollatte)
+Project Link: [https://github.com/datalatte-ai/chainlatte](https://github.com/datalatte-ai/chainlatte)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -202,16 +201,16 @@ Project Link: [https://github.com/datalatte-ai/protocollatte](https://github.com
 
 
 <!-- IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/datalatte-ai/protocollatte.svg?style=for-the-badge
-[contributors-url]: https://github.com/datalatte-ai/protocollatte/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/datalatte-ai/protocollatte.svg?style=for-the-badge
-[forks-url]: https://github.com/datalatte-ai/protocollatte/network/members
-[stars-shield]: https://img.shields.io/github/stars/datalatte-ai/protocollatte.svg?style=for-the-badge
-[stars-url]: https://github.com/datalatte-ai/protocollatte/stargazers
-[issues-shield]: https://img.shields.io/github/issues/datalatte-ai/protocollatte.svg?style=for-the-badge
-[issues-url]: https://github.com/datalatte-ai/protocollatte/issues
-[license-shield]: https://img.shields.io/github/license/datalatte-ai/protocollatte.svg?style=for-the-badge
-[license-url]: https://github.com/datalatte-ai/protocollatte/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/datalatte-ai/chainlatte.svg?style=for-the-badge
+[contributors-url]: https://github.com/datalatte-ai/chainlatte/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/datalatte-ai/chainlatte.svg?style=for-the-badge
+[forks-url]: https://github.com/datalatte-ai/chainlatte/network/members
+[stars-shield]: https://img.shields.io/github/stars/datalatte-ai/chainlatte.svg?style=for-the-badge
+[stars-url]: https://github.com/datalatte-ai/chainlatte/stargazers
+[issues-shield]: https://img.shields.io/github/issues/datalatte-ai/chainlatte.svg?style=for-the-badge
+[issues-url]: https://github.com/datalatte-ai/chainlatte/issues
+[license-shield]: https://img.shields.io/github/license/datalatte-ai/chainlatte.svg?style=for-the-badge
+[license-url]: https://github.com/datalatte-ai/chainlatte/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/company/datalatte/
 [product-screenshot]: https://www.datalatte.com/imgs/home/cover_3.svg
